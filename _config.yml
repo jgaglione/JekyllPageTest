@@ -1,9 +1,9 @@
 # Site settings
-title: Vanderbilt Univeristy - Machine Learning Training Facility
+title: Vanderbilt University - ML Training Facility
 author:
   name: Andrew Melo
   email: Andre.Melo@gmail.com
-description: "MLTF Quick Start Guide"
+description: "Quick Start Guide"
 
 # Build settings
 theme: jekyll-theme-slate
