@@ -6,4 +6,4 @@ author:
 description: "Vanderbilt University - Machine Learning Training Facility"
 
 # Build settings
-theme: Modernist
+remote_theme: pages-themes/modernist@v0.2.0
